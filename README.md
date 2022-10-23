@@ -13,6 +13,8 @@
 ```
 react-native - 앱 구조 설계 및 틀 제작 
 
+typescript, js - 앱 내부 스크린 제작
+
 firebase(realtimebase, firestore) - 실시간 매칭, web-rtc 피어와 후보 교환, 채팅
 
 redux - 앱 메모리에서의 상태 관리
